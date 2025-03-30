@@ -28,21 +28,21 @@
    cd YoutubeDownloader
    ```  
 3. Instale as bibliotecas usadas no projeto
-  ```sh
-  pip install pytubefix
-  ```
-  ```sh
-  pip install customtkinter
-  ```
-  ```sh
-  pip install requests
-  ```
-  ```sh
-  pip install moviepy
-  ```
-  ```sh
-  pip install pillow
-  ```
+    ```sh
+    pip install pytubefix
+    ```
+    ```sh
+    pip install customtkinter
+    ```
+    ```sh
+    pip install requests
+    ```
+    ```sh
+    pip install moviepy
+    ```
+    ```sh
+    pip install pillow
+    ```
 3. Rode o programa através do seu editor de código
    
 
